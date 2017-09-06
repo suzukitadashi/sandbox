@@ -1,4 +1,6 @@
-public class Main {
+package deaf.tadashi.memo;
+
+public class 演算子確認 {
     public static void main(String[] args) throws Exception {
         // Here your code !
         boolean a = true;
